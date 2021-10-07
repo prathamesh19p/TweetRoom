@@ -1,5 +1,10 @@
-# TweetRoom
+TweetRoom 🐦 
+============
 A fully working Twitter Clone built using Django
+
+[![](https://img.shields.io/badge/Made_with-Python3-red?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/Made_with-Django-red?style=for-the-badge&logo=django)]()
+[![](https://img.shields.io/badge/Made_with-pillow-red?style=for-the-badge&logo=pillow)]()
 
 ## Setup
 
