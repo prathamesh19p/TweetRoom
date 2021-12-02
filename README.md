@@ -1,6 +1,6 @@
 TweetRoom 🐦 
 ============
-A fully working Twitter Clone built using Django
+A Twitter Clone built using Django
 
 [![](https://img.shields.io/badge/Made_with-Python3-red?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/Made_with-Django-red?style=for-the-badge&logo=django)]()
